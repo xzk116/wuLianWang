@@ -1,0 +1,1 @@
+import{i as o}from"./index.BejBKBoI.js";import{dA as n}from"./index.BzvGtMjL.js";const i=o?window.document:void 0;function d(o){var i;const d=n(o);return null!=(i=null==d?void 0:d.$el)?i:d}export{i as d,d as u};
