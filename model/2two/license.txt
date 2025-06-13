@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Irish Longsword
+* source:	https://sketchfab.com/3d-models/medieval-irish-longsword-455ef3ab83d547b0995872bca01b1837
+* author:	leeeck (https://sketchfab.com/leeeck)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Irish Longsword" (https://sketchfab.com/3d-models/medieval-irish-longsword-455ef3ab83d547b0995872bca01b1837) by leeeck (https://sketchfab.com/leeeck) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
