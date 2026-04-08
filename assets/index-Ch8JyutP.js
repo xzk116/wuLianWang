@@ -1,1 +1,0 @@
-import{i as o}from"./index-CQxZkut2.js";import{dK as n}from"./index-CiGSYrgm.js";const i=o?window.document:void 0;function r(o){var i;const r=n(o);return null!=(i=null==r?void 0:r.$el)?i:r}export{i as d,r as u};
